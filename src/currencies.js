@@ -475,6 +475,14 @@ const CURRENCIES = [{
   symbol: 'busd',
   validator: ETHValidator
 }, {
+  name: 'Decentraland',
+  symbol: 'mana',
+  validator: ETHValidator
+}, {
+  name: 'Shiba Inu',
+  symbol: 'shib',
+  validator: ETHValidator
+}, {
   name: 'Lisk',
   symbol: 'lsk',
   validator: LSKValidator
