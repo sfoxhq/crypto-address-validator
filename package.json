@@ -273,7 +273,7 @@
     "base-x": "^3.0.4",
     "cbor-js": "^0.1.0",
     "crc": "^3.8.0",
-    "jssha": "2.3.1"
+    "jssha": "2.4.2"
   },
   "devDependencies": {
     "browserify": "^15.1.0",
